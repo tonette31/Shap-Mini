@@ -1,0 +1,4 @@
+target: target          # target column name if you bring your own data
+test_size: 0.2
+seed: 42
+model: rf               # rf | logreg
